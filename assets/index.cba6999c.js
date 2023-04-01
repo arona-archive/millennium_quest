@@ -3507,7 +3507,7 @@ function lc(e) {
 }
 const cc = "modulepreload"
   , Xs = {}
-  , uc = "https://webusstatic.yo-star.com/bluearchive_jp_web/millennium_quest/prod/"
+  , uc = "./"
   , po = function(t, n) {
     return !n || n.length === 0 ? t() : Promise.all(n.map(s=>{
         if (s = `${uc}${s}`,

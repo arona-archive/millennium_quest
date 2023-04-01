@@ -1,9 +1,9 @@
 import {_ as D, o as A, c as C, b as k, d as N, e as I, f as u, g as W, h as S, i as b, n as P, u as T, j as O, k as U, l as $, w as v, v as w, a as j, m as Y, F as G, p as e, q as z, s as V} from "./index.cba6999c.js";
-var q = "https://webusstatic.yo-star.com/bluearchive_jp_web/millennium_quest/prod/assets/BA_logo.7046c58d.png"
-  , K = "https://webusstatic.yo-star.com/bluearchive_jp_web/millennium_quest/prod/assets/yostar_bottom.d2e8de97.png"
-  , X = "https://webusstatic.yo-star.com/bluearchive_jp_web/millennium_quest/prod/assets/twitter_share_normal.1cb07f50.png"
-  , Z = "https://webusstatic.yo-star.com/bluearchive_jp_web/millennium_quest/prod/assets/yostarBottom.5cc67b35.png"
-  , J = "https://webusstatic.yo-star.com/bluearchive_jp_web/millennium_quest/prod/assets/yostarBottom.89a51789.png";
+var q = "./assets/BA_logo.7046c58d.png"
+  , K = "./assets/yostar_bottom.d2e8de97.png"
+  , X = "./assets/twitter_share_normal.1cb07f50.png"
+  , Z = "./assets/yostarBottom.5cc67b35.png"
+  , J = "./assets/yostarBottom.89a51789.png";
 const Q = {}
   , uu = k('<div class="router-content" data-v-2d1cbe7b><a class="router-link" target="_blank" href="https://bluearchive.jp/terms" data-v-2d1cbe7b> \u5229\u7528\u898F\u7D04 </a><a class="router-link" target="_blank" href="https://bluearchive.jp/privacy" data-v-2d1cbe7b> \u30D7\u30E9\u30A4\u30D0\u30B7\u30FC\u30DD\u30EA\u30B7\u30FC </a><a class="router-link" target="_blank" href="https://bluearchive.jp/specific_business" data-v-2d1cbe7b> \u7279\u5B9A\u5546\u53D6\u5F15\u6CD5\u306B\u57FA\u3065\u304F\u8868\u793A </a><a class="router-link" target="_blank" href="https://bluearchive.jp/based" data-v-2d1cbe7b> \u8CC7\u91D1\u6C7A\u6E08\u6CD5\u306B\u57FA\u3065\u304F\u8868\u793A </a><a class="router-link" target="_blank" href="https://bluearchive.jp/fankit/guidelines" data-v-2d1cbe7b> \u4E8C\u6B21\u5275\u4F5C\u30AC\u30A4\u30C9\u30E9\u30A4\u30F3 </a></div><div class="logo-content" data-v-2d1cbe7b><div class="logo-wrap" data-v-2d1cbe7b><img class="logo-yostar" src="' + J + '" alt="logo" data-v-2d1cbe7b></div></div>', 2)
   , tu = [uu];
